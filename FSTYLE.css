@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    padding: 30px 0;
+    background-color: #333;
+    background-image: url("backgr.jpg");
+    color: #fff;
+  }
+  
+  h1 {
+    margin: 0;
+    font-size: 2em;
+    color: #333;
+   
+    
+  } 
+  
+  p {
+    margin: 10px 0 0;
+  }
+  
+  nav {
+    text-align: center;
+    background-color: #333;
+
+  }
+  
+  nav a {
+    text-decoration: none;
+   color: white;
+    padding: 10px 20px;
+    margin: 0 10px;
+  }
+  
+section {
+    text-align: left;
+    padding: 40px;
+    color: #333;
+    align-items: end;
+}
+  
+h2{
+    color: #333;
+}
